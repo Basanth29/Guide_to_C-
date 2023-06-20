@@ -27,4 +27,4 @@ The solution file *learning_charp8.sln* contains all these projects together. Th
 ### Get in Touch with Me!
 
  <i>If you are stuck somewhere, this e-book will help you to solve your doubts.<br>Simply click on the link to Email me your questions and I will get back in no time.</i>
-<p align="center"> <a href="basanth.pedapati@gmail.com">basanth.pedapati@gmail.com </a> </p>s
+<p align="center"> <a href="basanth.pedapati@gmail.com">basanth.pedapati@gmail.com </a> </p>
